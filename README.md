@@ -50,49 +50,49 @@ secundários locais e globais.
 
 **1. Criando o Banco de Dados**
 
-![Criando BanCo](Imagens\image.png)
+![Criando BanCo](Imagens/image.png)
 
 ---
 **2. Criando Tabela**
-![Criando Tabela](Imagens\image-1.png)
+![Criando Tabela](Imagens/image-1.png)
 
 ---
 **3. Inserção de dados na tabela via CloudShall**
-![Inserindo Dados](Imagens\image-2.png)
+![Inserindo Dados](Imagens/image-2.png)
 
 ---
 
-![Inserindo Dados](Imagens\image-3.png)
+![Inserindo Dados](Imagens/image-3.png)
 
 ---
 **4. Tabela com Dados Inseridos**
 
-![alt text](Imagens\image-4.png)
+![alt text](Imagens/image-4.png)
 
 ---
 **5. Pesquisa de dados na tabela pelo ID, Condição, Tipo, Valor. A quantidade de valores retornados**
-![alt text](Imagens\image-5.png)
+![alt text](Imagens/image-5.png)
 
 ---
 
-![alt text](Imagens\image-6.png)
+![alt text](Imagens/image-6.png)
 
 ---
 
 **6. Configurações que melhoraram a eficiencia da pesquisa e da performance do Banco de Dados**
-![alt text](Imagens\image-7.png)
+![alt text](Imagens/image-7.png)
 
 ---
 
 **7. Índices Globais e Secundários Configurados**
 
-![alt text](Imagens\image-8.png)
+![alt text](Imagens/image-8.png)
 
 ---
 
 **8. Pesquisa Realizada Utilizando valores retorna a eficiência, desempenho e RCUs consumidos**
 
-![alt text](Imagens\image-9.png)
+![alt text](Imagens/image-9.png)
 
 ---
 ## 📎 Links Importantes
