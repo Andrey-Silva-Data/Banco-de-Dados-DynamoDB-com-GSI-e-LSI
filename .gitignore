@@ -7,7 +7,7 @@ venv/
 *.tmp
 
 # Ignorar notebooks gerados
-*.ipynb_checkpoints/
+#*.ipynb_checkpoints/
 
 # Ignorar configurações do VS Code
 .vscode/
