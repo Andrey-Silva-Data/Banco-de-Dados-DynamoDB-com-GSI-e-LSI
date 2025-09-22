@@ -49,49 +49,50 @@ secundários locais e globais.
 ## 📊 Resultados
 
 **1. Criando o Banco de Dados**
-![alt text](Banco-de-Dados-DynamoDB-com-GSI-e-LSI\Imagens\image.png)
+
+![Criando BanCo](Imagens\image.png)
 
 ---
 **2. Criando Tabela**
-![alt text](Banco-de-Dados-DynamoDB-com-GSI-e-LSI\Imagens\image-1.png)
+![Criando Tabela](Imagens\image-1.png)
 
 ---
 **3. Inserção de dados na tabela via CloudShall**
-![alt text](Banco-de-Dados-DynamoDB-com-GSI-e-LSI\Imagens\image-2.png)
+![Inserindo Dados](Imagens\image-2.png)
 
 ---
 
-![alt text](Banco-de-Dados-DynamoDB-com-GSI-e-LSI\Imagens\image-3.png)
+![Inserindo Dados](Imagens\image-3.png)
 
 ---
 **4. Tabela com Dados Inseridos**
 
-![alt text](Banco-de-Dados-DynamoDB-com-GSI-e-LSI\Imagens\image-4.png)
+![alt text](Imagens\image-4.png)
 
 ---
 **5. Pesquisa de dados na tabela pelo ID, Condição, Tipo, Valor. A quantidade de valores retornados**
-![alt text](Banco-de-Dados-DynamoDB-com-GSI-e-LSI\Imagens\image-5.png)
+![alt text](Imagens\image-5.png)
 
 ---
 
-![alt text](Banco-de-Dados-DynamoDB-com-GSI-e-LSI\Imagens\image-6.png)
+![alt text](Imagens\image-6.png)
 
 ---
 
 **6. Configurações que melhoraram a eficiencia da pesquisa e da performance do Banco de Dados**
-![alt text](Banco-de-Dados-DynamoDB-com-GSI-e-LSI\Imagens\image-7.png)
+![alt text](Imagens\image-7.png)
 
 ---
 
 **7. Índices Globais e Secundários Configurados**
 
-![alt text](Banco-de-Dados-DynamoDB-com-GSI-e-LSI\Imagens\image-8.png)
+![alt text](Imagens\image-8.png)
 
 ---
 
 **8. Pesquisa Realizada Utilizando valores retorna a eficiência, desempenho e RCUs consumidos**
 
-![alt text](Banco-de-Dados-DynamoDB-com-GSI-e-LSI\Imagens\image-9.png)
+![alt text](Imagens\image-9.png)
 
 ---
 ## 📎 Links Importantes
