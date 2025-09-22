@@ -1,0 +1,13 @@
+ECHO est� ativado.
+# Ignorar ambiente virtual
+venv/
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar notebooks gerados
+*.ipynb_checkpoints/
+
+# Ignorar configurações do VS Code
+.vscode/
