@@ -4,14 +4,17 @@ Criação de Banco de Dados DynamoDB com índices globais e locais, operações 
 # 📊 Criação de Banco de Dados DynamoDB com Índices Globais GLI e Secundários SLI
 
 ## 📌 Descrição
+
 Neste Projeto, foi criado uma tabela no DynamoDB com índices
 secundários locais (LSI) e globais (GLI), além de realizar operações de inserção e consulta
 utilizando tanto o console da AWS quanto no terminal CloudShell.
+
 ---
 ## 🚀 Tecnologias Utilizadas
 - **Cloud:** Console AWS e CloudShall
 - **Banco de Dados:** DynamoDB  
 - **Outras:** Arquivos Json  
+
 ---
 ## 🎯 Objetivos do Projeto
 
@@ -24,6 +27,7 @@ utilizando tanto o console da AWS quanto no terminal CloudShell.
 
 ---
 ## Cenário
+
 Fui contratado por uma empresa fictícia que precisa armazenar pedidos realizados por
 clientes em uma base NoSQL. Minha missão é construir uma tabela chamada Pedido-
 Andrey no DynamoDB que possibilite consultas eficientes tanto por ID de usuário e data
